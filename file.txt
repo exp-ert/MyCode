@@ -1,2 +1,2 @@
-Hello this my very first project.
+Hello.
 Hi.
